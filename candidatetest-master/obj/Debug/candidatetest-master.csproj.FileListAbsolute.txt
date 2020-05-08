@@ -1,0 +1,10 @@
+c:\users\s.v.ivanov\documents\visual studio 2012\Projects\candidatetest-master\candidatetest-master\bin\Debug\candidatetest-master.exe.config
+c:\users\s.v.ivanov\documents\visual studio 2012\Projects\candidatetest-master\candidatetest-master\bin\Debug\candidatetest-master.exe
+c:\users\s.v.ivanov\documents\visual studio 2012\Projects\candidatetest-master\candidatetest-master\bin\Debug\candidatetest-master.pdb
+c:\users\s.v.ivanov\documents\visual studio 2012\Projects\candidatetest-master\candidatetest-master\obj\Debug\candidatetest-master.csprojResolveAssemblyReference.cache
+c:\users\s.v.ivanov\documents\visual studio 2012\Projects\candidatetest-master\candidatetest-master\obj\Debug\candidatetest_master.Form1.resources
+c:\users\s.v.ivanov\documents\visual studio 2012\Projects\candidatetest-master\candidatetest-master\obj\Debug\candidatetest_master.Properties.Resources.resources
+c:\users\s.v.ivanov\documents\visual studio 2012\Projects\candidatetest-master\candidatetest-master\obj\Debug\candidatetest-master.csproj.GenerateResource.Cache
+c:\users\s.v.ivanov\documents\visual studio 2012\Projects\candidatetest-master\candidatetest-master\obj\Debug\candidatetest-master.exe
+c:\users\s.v.ivanov\documents\visual studio 2012\Projects\candidatetest-master\candidatetest-master\obj\Debug\candidatetest-master.pdb
+c:\users\s.v.ivanov\documents\visual studio 2012\Projects\candidatetest-master\candidatetest-master\bin\Debug\Newtonsoft.Json.dll
